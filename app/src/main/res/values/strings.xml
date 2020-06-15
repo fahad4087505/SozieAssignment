@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Sozie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Measurement Page</string>
+    <string name="second_fragment_label">Measurement Page 2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Measurement Page</string>
+    <string name="hello_second_fragment">Measurement Page 2</string>
+    <string name="measurements">Measurements</string>
+    <string name="cm">cm</string>
+    <string name="in">in</string>
+    <string name="xl">XL</string>
+    <string name="what_top_size_do_you_normally_wear">What top size do you normally wear?</string>
+    <string name="what_bottom_size_do_you_normally_wear">What bottom size do you normally wear?</string>
+    <string name="what_dress_size_do_you_normally_wear">What dress size do you normally wear?</string>
+    <string name="cup">cup</string>
+    <string name="band">band</string>
+    <string name="bra_size">Bra Size</string>
+    <string name="ft">ft</string>
+    <string name="height">Height:</string>
+    <string name="skip_to_do_it_later">Skip to do it later.</string>
+    <string name="click_here">Click Here</string>
+    <string name="or">or</string>
+    <string name="unsure_of_how_to_measure_yourself">Unsure of how to measure yourself?</string>
+    <string name="add_your_measurements">Add your measurements.</string>
+    <string name="skip">Skip</string>
+    <string name="waist">Waist</string>
+    <string name="begin_at_the_top_of_the_head_and_pull_tape_straight_down_to_the_floor">-Begin at the top of the head and pull tape\n straight down to the floor</string>
+    <string name="bend_to_one_side_to_find_the_natural_crease_of_your_waist">-Bend to one side to find the natural crease of\n your waist</string>
+    <string name="female">FEMALE</string>
+    <string name="male">MALE</string>
+    <string name="hips">Hips</string>
+</resources>
